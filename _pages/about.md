@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <p align="center">
-  <img src="https://seoyumyum.github.io/files/ASPIRE_KAIST_flip.jpg?raw=true" alt="Photo" style="width: 400px;"/> 
+  <img src="https://seoyumyum.github.io/files/ASPIRE_KAIST_flip_new.jpg?raw=true" alt="Photo" style="width: 400px;"/> 
 </p>
 
 # About Me
