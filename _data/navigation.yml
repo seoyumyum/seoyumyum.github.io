@@ -1,13 +1,17 @@
 # main links links
 main:
-  - title: "CV/Bio"
-    url: /files/hyungjoo_cv.pdf
-  
   - title: "Publications"
     url: /publications/
-
+    
+  - title: "Honors & Awards"
+    url: /honors/
+    
+  - title: "Gallery"
+    url: /gallery/
+    
   - title: "Contact"
     url: /contact/
+    
 #  - title: "Talks"
 #    url: /talks/    
 
