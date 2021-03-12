@@ -18,3 +18,22 @@ redirect_from:
 (1) Blocker-tolerant wireless receivers for 5G/Software-defined radios. (2) Signal processing and algorithm design in interference-dominant wireless/acoustics applications.
 * Previously, I received my B.Eng degree from [Tokyo Institute of Technology](https://www.titech.ac.jp/english/) in 2016. And, I received my M.S degree from [University of Michigan at Ann Arbor](https://umich.edu/) in 2018. 
 
+
+[[CV]()], [[Google Scholar]()]
+
+<button class="button-save large">Big Fat Button</button>
+
+<button onclick="window.location.href='https://bing.com';">Click</button>
+
+{% include button.html url="http://www.google.com" %}
+
+<p align="center">
+  <b>Quick Links:</b><br>
+  <a href="http://lantaoyu.com/files/lantaoyu_cv.pdf">CV</a> |
+  <a href="https://scholar.google.com/citations?user=Ixg9n-EAAAAJ&hl=en">Google Scholar</a> 
+  <br><br>
+</p>
+
+
+
+[button url="http://www.google.com"]
