@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Hyungjoo Seo"
+title                    : "Hyungjoo A Seo"
 title_separator          : "-"
-name                     : &name "Hyungjoo Seo"
+name                     : &name "Hyungjoo B Seo"
 description              : &description "Ph.D student, Electrical and Computer Engineering Dept., University of Illinois at Urbana-Champaign"
 url                      : https://seoyumyum.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
