@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <p align="center">
-  <img src="https://seoyumyum.github.io/files/GrandCanyon.jpg?raw=true" alt="Photo" style="width: 450px;"/> 
+  <img src="https://seoyumyum.github.io/files/GrandCanyon_flip.jpg?raw=true" alt="Photo" style="width: 400px;"/> 
 </p>
 
 # About Me
