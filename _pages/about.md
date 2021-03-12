@@ -25,7 +25,7 @@ redirect_from:
 
 <button onclick="window.location.href='https://bing.com';">Click</button>
 
-{% include button.html url="http://www.google.com" %}
+
 
 <p align="center">
   <b>Quick Links:</b><br>
@@ -36,4 +36,4 @@ redirect_from:
 
 
 
-[button url="http://www.google.com"]
+
