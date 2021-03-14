@@ -6,17 +6,17 @@ author_profile: true
 
 ### 1. Reconfigurable wireless receiver front-end utilizing mixer-first-acoustic architecture and impedance aliasing. 
 <p align="center">
-  <b>[Impedance Aliasing Phenomenon] (JSSC21)</b>
+  <b>Impedance Aliasing Phenomenon (JSSC21)</b>
   <img src="https://seoyumyum.github.io/files/ImpedanceAliasing.png?raw=true" alt="Photo"> 
 </p>
 
 <p align="center">
-  <b>[Concept of proposed architecture] (JSSC21, <a href="https://ieeexplore.ieee.org/abstract/document/9218392">RFIC20</a>, RFIC21) </b>
+  <b>Concept of proposed architecture (JSSC21, <a href="https://ieeexplore.ieee.org/abstract/document/9218392">RFIC20</a>, RFIC21) </b>
   <img src="https://seoyumyum.github.io/files/MixFirstAcoustic_Concept.png?raw=true" alt="Photo"> 
 </p>
 
 <p align="center">
-  <b>[Enabling tunable 2.5-to-4.5GHz SAW BPF design from a fixed 1.6GHz SAW BPF] (<a href="https://ieeexplore.ieee.org/abstract/document/9218392">RFIC20</a>) </b>
+  <b>Enabling tunable 2.5-to-4.5GHz SAW BPF design from a fixed 1.6GHz SAW BPF (<a href="https://ieeexplore.ieee.org/abstract/document/9218392">RFIC20</a>) </b>
   <img src="https://seoyumyum.github.io/files/2020-mixerfirst_orig.png?raw=true" alt="Photo"> 
 </p>
 
