@@ -22,7 +22,7 @@ author_profile: true
 
 ### 2. Adventures
 <p align="center">
-  <b>Beckman Institute. Jan 2021 @UIUC, IL, USA </b><br>
+  <b>Beckman Institute. Nov 2020 @UIUC, IL, USA </b><br>
   <img src="https://seoyumyum.github.io/files/CSL_Night.jpg?raw=true" alt="Photo" style="width: 400px;"/> 
 </p>
 
@@ -62,8 +62,24 @@ author_profile: true
   <b>Wedding. Aug 2018 @Seoul, South Korea </b><br>
   <img src="https://seoyumyum.github.io/files/WeddingPic.jpg?raw=true" alt="Photo" style="width: 400px;"/> 
 </p>
+
 <p align="center">
-  <b>The 1st ASPIRE League Team Tokyo Tech. , Aug 2014 @KAIST, Daejeon, South Korea </b><br>
+  <b>Spring Commencement. Apr 2018 @Ann Arbor, MI, USA </b><br>
+  <img src="https://seoyumyum.github.io/files/Umich_Grad.jpg?raw=true" alt="Photo" style="width: 400px;"/> 
+</p>
+
+<p align="center">
+  <b>With MICL(Mich IC Lab) friends. Mar 2018 @Ann Arbor, MI, USA </b><br>
+  <img src="https://seoyumyum.github.io/files/MICL.jpg?raw=true" alt="Photo" style="width: 400px;"/> 
+</p>
+
+<p align="center">
+  <b>Graduation Presentation. Mar 2016 @Tokyo Tech, Tokyo, Japan </b><br>
+  <img src="https://seoyumyum.github.io/files/TokyoTech_GradPresent.jpg?raw=true" alt="Photo" style="width: 400px;"/> 
+</p>
+
+<p align="center">
+  <b>The 1st ASPIRE League Team Tokyo Tech. Aug 2014 @KAIST, Daejeon, South Korea </b><br>
   <img src="https://seoyumyum.github.io/files/ASPIRE_KAIST_Group.jpg?raw=true" alt="Photo" style="width: 400px;"/> 
 </p>
 <p align="center">
