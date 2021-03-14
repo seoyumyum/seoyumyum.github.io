@@ -25,8 +25,8 @@ redirect_from:
 
 <p align="center">
   <b>Quick Links:</b><br>
-  <button onclick="window.location.href='http://lantaoyu.com/files/lantaoyu_cv.pdf';">CV</button>
-  <button onclick="window.location.href='https://scholar.google.com/citations?user=Ixg9n-EAAAAJ&hl=en';">Google Scholar</button>
+  <button onclick="window.location.href='http://seoyumyum.github.io/files/HyungjooSeo_CV_Web_Mar2021.pdf';">CV</button>
+  <button onclick="window.location.href='https://scholar.google.com/citations?user=bVcVxc4AAAAJ&hl=en';">Google Scholar</button>
   <br><br>
 </p>
 
