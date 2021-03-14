@@ -16,7 +16,7 @@ redirect_from:
 * I am a Ph.D. student in the [Electrical and Computer Engineering Department](https://ece.illinois.edu/) at [University of Illinois at Urbana-Champaign](https://illinois.edu/), advised by Prof. [Jin Zhou](https://ece.illinois.edu/about/directory/faculty/jinzhou) and Prof. [Romit Roy Choudhury](https://croy.web.engr.illinois.edu/). 
 * My current research interest is two-fold, broadly in interference management. 
 (1) Blocker-tolerant wireless receivers for 5G/Software-defined radios. (2) Signal processing and algorithm design in interference-dominant wireless/acoustics applications.
-* Previously, I received my B.Eng degree from [Tokyo Institute of Technology](https://www.titech.ac.jp/english/) in 2016. And, I received my M.S degree from [University of Michigan at Ann Arbor](https://umich.edu/) in 2018. 
+* Previously, I received my B.Eng degree with highest honors from [Tokyo Institute of Technology](https://www.titech.ac.jp/english/) in 2016. And, I received my M.S degree from [University of Michigan at Ann Arbor](https://umich.edu/) in 2018. 
 
 
  
