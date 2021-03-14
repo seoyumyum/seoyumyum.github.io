@@ -1,34 +1,33 @@
 ---
-title: "Research"
+title: "Research Projects"
 permalink: /research/
 author_profile: true
 ---
 
-# Research Projects
-## 1. Reconfigurable wireless receiver front-end utilizing mixer-first-acoustic architecture and impedance aliasing. 
+### 1. Reconfigurable wireless receiver front-end utilizing mixer-first-acoustic architecture and impedance aliasing. 
 <p align="center">
-  <b><span style="color:Navy">[Impedance Aliasing Phenomenon (JSSC21)] </span></b>
+  <b>[Impedance Aliasing Phenomenon] (JSSC21)</b>
   <img src="https://seoyumyum.github.io/files/ImpedanceAliasing.png?raw=true" alt="Photo"> 
 </p>
 
 <p align="center">
-  <b><span style="color:Navy">Concept of proposed architecture (JSSC21, <a href="https://ieeexplore.ieee.org/abstract/document/9218392">RFIC20</a>, RFIC21) </span></b>
-  <img src="https://seoyumyum.github.io/files/MixFirstAcoustic_Concept.png?raw=true" alt="Photo", style="width: 400px;"/> 
+  <b>[Concept of proposed architecture] (JSSC21, <a href="https://ieeexplore.ieee.org/abstract/document/9218392">RFIC20</a>, RFIC21) </b>
+  <img src="https://seoyumyum.github.io/files/MixFirstAcoustic_Concept.png?raw=true" alt="Photo"> 
 </p>
 
 <p align="center">
-  <b><span style="color:Navy"> Enabling tunable 2.5-to-4.5GHz SAW BPF design from a fixed 1.6GHz SAW BPF (<a href="https://ieeexplore.ieee.org/abstract/document/9218392">RFIC20</a>) </span></b>
+  <b>[Enabling tunable 2.5-to-4.5GHz SAW BPF design from a fixed 1.6GHz SAW BPF] (<a href="https://ieeexplore.ieee.org/abstract/document/9218392">RFIC20</a>) </b>
   <img src="https://seoyumyum.github.io/files/2020-mixerfirst_orig.png?raw=true" alt="Photo"> 
 </p>
 
 <p align="center">
-  <b><span style="color:Navy"> Enabling tunable 3.5-to-6.2GHz BAW BPF design from two fixed 2.6GHz BAW BPF (RFIC21) </span></b>
+  <b>Enabling tunable 3.5-to-6.2GHz BAW BPF design from two fixed 2.6GHz BAW BPFs (RFIC21)</b>
   <img src="https://seoyumyum.github.io/files/RFIC21_Concept_Full.png?raw=true" alt="Photo"> 
 </p>
 
-## 2. Full-Duplex radios and self-interference cancellation (SIC)
+### 2. Full-Duplex radios and self-interference cancellation (SIC)
 <p align="center">
-  <b><span style="color:Navy"> Full-Duplex/FDD Duplexer and Receiver with Autonomous Adaptation Loops (<a href="https://ieeexplore.ieee.org/abstract/document/9223872/">IMS20</a>) </span></b>
+  <b>Full-Duplex/FDD Duplexer and Receiver with Autonomous Adaptation Loops (<a href="https://ieeexplore.ieee.org/abstract/document/9223872/">IMS20</a>)</b>
   <img src="https://seoyumyum.github.io/files/2020-fddfdrx_orig.png?raw=true" alt="Photo"> 
 </p>
 
