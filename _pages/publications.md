@@ -5,15 +5,15 @@ author_profile: true
 ---
 
 <b>[A Mixer-First Acoustic-Filtering Superheterodyne RF Front-End](https://sscs.ieee.org/publications/ieee-journal-of-solid-state-circuits-jssc)</b> <br>
-<b>Hyungjoo Seo</b>, and Jin Zhou.
+<b>Hyungjoo Seo</b>, and Jin Zhou. to appear in
 <i>IEEE Journal of
-Solid-State Circuits</i>. <b>JSSC 2021</b>. <b><span style="color:Navy">(Invited paper from RFIC 2020 - minor revision)</span></b>
+Solid-State Circuits</i>. <b>JSSC 2021</b>. <b><span style="color:Navy">(Invited paper from RFIC 2020)</span></b>
 
 <b>[A 3.5-to-6.2-GHz Mixer-First Acoustic-Filtering Receiver Chipset with
 Mixed-Domain Asymmetric IF and Complex BB Recombination Achieving 170MHz BW and +27dBm
 IIP3 at 1xBW offset](https://rfic-ieee.org/)</b> <br>
-<b>Hyungjoo Seo</b>, Mengze Sha and Jin Zhou.
-<i>to appear in IEEE Radio Frequency Integrated Circuits
+<b>Hyungjoo Seo</b>, Mengze Sha and Jin Zhou. to appear in 
+<i>IEEE Radio Frequency Integrated Circuits
 Symposium</i>. <b>RFIC 2021</b>.
 
 <b>[Efficient Wideband Spectrum
