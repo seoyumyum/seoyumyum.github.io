@@ -36,13 +36,15 @@ author_profile: true
   <img src="https://seoyumyum.github.io/files/Ratrace.png?raw=true" alt="Photo" style="width: 400px;"/> 
 </p>
 
+<!---
 <p align="center">
   <b> Dolphin. June 2019 @Xel-ha, Mexico </b><br>
   <img src="https://seoyumyum.github.io/files/Dolphin.jpg?raw=true" alt="Photo" style="width: 400px;"/> 
 </p>
+-->
 
 <p align="center">
-  <b> Inverse Filter by Nature. Feb 2018 @Ann Arbor, MI, USA </b><br>
+  <b> Inverse Filtering by Nature. Feb 2018 @Ann Arbor, MI, USA </b><br>
   <img src="https://seoyumyum.github.io/files/InverseFilter_Feb14_2018.jpg?raw=true" alt="Photo" style="width: 400px;"/> 
 </p>
 
@@ -51,11 +53,12 @@ author_profile: true
   <img src="https://seoyumyum.github.io/files/WorldFlat_AnnArbor_12June_2017.jpg?raw=true" alt="Photo" style="width: 400px;"/> 
 </p>
 
+<!---
 <p align="center">
   <b> Grand Canyon. July 2016 @South Rim, AZ, USA </b><br>
   <img src="https://seoyumyum.github.io/files/GrandCanyon.jpg?raw=true" alt="Photo" style="width: 400px;"/> 
 </p>
-
+-->
 
 ## 3. Social
 <p align="center">
