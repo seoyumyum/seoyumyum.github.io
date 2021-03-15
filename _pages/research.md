@@ -4,7 +4,7 @@ permalink: /research/
 author_profile: true
 ---
 # 1. Blocker-tolerant receivers and RF-domain signal processing
-## (a) Software-defined wireless receiver front-end utilizing hybrid CMOS-acoustic mixer-first architecture. 
+## (i) Software-defined wireless receiver front-end utilizing hybrid CMOS-acoustic mixer-first architecture. 
 <p align="center">
   <b>Impedance Aliasing Phenomenon (JSSC21)</b>
   <img src="https://seoyumyum.github.io/files/ImpedanceAliasing.png?raw=true" alt="Photo"> 
@@ -25,7 +25,7 @@ author_profile: true
   <img src="https://seoyumyum.github.io/files/RFIC21_Concept_Full_v2.png?raw=true" alt="Photo"> 
 </p>
 
-## (b) Full-Duplex radios and self-interference cancellation (SIC)
+## (ii) Full-Duplex radios and self-interference cancellation (SIC)
 <p align="center">
   <b>Full-Duplex/FDD Duplexer and Receiver with Autonomous Adaptation Loops (<a href="https://ieeexplore.ieee.org/abstract/document/9223872/">IMS20</a>)</b>
   <img src="https://seoyumyum.github.io/files/2020-fddfdrx_orig.png?raw=true" alt="Photo"> 
