@@ -4,7 +4,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-<b>[A Mixer-First Acoustic-Filtering Superheterodyne RF Front-End](https://ieeexplore.ieee.org/document/9391989)</b> <br>
+<b>[A Passive-Mixer-First Acoustic-Filtering Superheterodyne RF Front-End](https://ieeexplore.ieee.org/document/9391989)</b> <br>
 <b>Hyungjoo Seo</b>, and Jin Zhou. to appear in
 <i>IEEE Journal of
 Solid-State Circuits</i>. <b>JSSC 2021</b>. <b><span style="color:Navy">(Invited paper from RFIC 2020)</span></b>
