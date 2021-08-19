@@ -32,8 +32,9 @@ author_profile: true
   <img src="https://seoyumyum.github.io/files/2020-fddfdrx_orig.png?raw=true" alt="Photo"> 
 </p>
 
-* Designed and simulated various SIC algorithms.
+* Designed and simulated various gradient-descent-based SIC algorithms.
 <img src="https://seoyumyum.github.io/files/SIC_Sim.png?raw=true" alt="Photo">
+
 ### (iii) Commutated-Circuit-and-Acoustic-Delay-Line-based Adaptive Canceller (CADELAC) 
 
 * Neural-network-based weight initialization scheme for direct-RF wideband self-interference cancellation to deal with non-idealities from frequency-translated acoustic-delay lines.
