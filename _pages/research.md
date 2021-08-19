@@ -26,16 +26,17 @@ author_profile: true
   <img src="https://seoyumyum.github.io/files/RFIC21_Concept_Full_v2.png?raw=true" alt="Photo"> 
 </p>
 
-### (ii) Full-Duplex radios and self-interference cancellation (SIC)
+### (ii) Full-Duplex radios and self-interference cancellation in RF/analog domain (SIC)
 <p align="center">
   <b>Full-Duplex/FDD Duplexer and Receiver with Autonomous Adaptation Loops (<a href="https://ieeexplore.ieee.org/abstract/document/9223872/">IMS20</a>)</b>
   <img src="https://seoyumyum.github.io/files/2020-fddfdrx_orig.png?raw=true" alt="Photo"> 
 </p>
+* Designed and simulated various SIC algorithms in python.
+<img src="https://seoyumyum.github.io/files/SIC_Sim.png?raw=true" alt="Photo">
+<b>Commutated-Circuit-and-Acoustic-Delay-Line-based Adaptive Canceller (CADELAC) (<a href="http://google.com">IMS20</a>)</b>
+* Neural-network-based weight initialization scheme for direct-RF wideband self-interference cancellation to deal with non-idealities from frequency-translated acoustic-delay lines.
 
-* Designed and simulated various SIC algorithms in python.(To be added)
-* Machine-learning-augmented initialization algorithms under investigation.(To be added)
-
-## **2. Real-time non-field-of-view tracking/sensing algorithm for underdetermined blind source separation**
+## **2. Non-field-of-view tracking/sensing algorithm for underdetermined blind source separation**
 To be added.
 
 ## More to be coming.
