@@ -4,17 +4,17 @@ permalink: /publications/
 author_profile: true
 ---
 
-<b>[A Passive-Mixer-First Acoustic-Filtering Superheterodyne RF Front-End](https://ieeexplore.ieee.org/document/9391989)</b> <br>
-<b>Hyungjoo Seo</b>, and Jin Zhou. to appear in
-<i>IEEE Journal of
-Solid-State Circuits</i>. <b>JSSC 2021</b>. <b><span style="color:Navy">(Invited paper from RFIC 2020)</span></b>
-
 <b>[A 3.5-to-6.2-GHz Mixer-First Acoustic-Filtering Receiver Chipset with
 Mixed-Domain Asymmetric IF and Complex BB Recombination Achieving 170MHz BW and +27dBm
-IIP3 at 1xBW offset](https://rfic-ieee.org/)</b> <br>
-<b>Hyungjoo Seo</b>, Mengze Sha and Jin Zhou. to appear in 
+IIP3 at 1xBW offset](https://ieeexplore.ieee.org/abstract/document/9490473)</b> <br>
+<b>Hyungjoo Seo</b>, Mengze Sha and Jin Zhou. 
 <i>IEEE Radio Frequency Integrated Circuits
 Symposium</i>. <b>RFIC 2021</b>.
+
+<b>[A Passive-Mixer-First Acoustic-Filtering Superheterodyne RF Front-End](https://ieeexplore.ieee.org/document/9391989)</b> <br>
+<b>Hyungjoo Seo</b>, and Jin Zhou. 
+<i>IEEE Journal of
+Solid-State Circuits</i>. <b>JSSC 2021</b>. <b><span style="color:Navy">(Invited paper from RFIC 2020)</span></b>
 
 <b>[Efficient Wideband Spectrum
 Sensing Using MEMS Acoustic Resonators](https://www.usenix.org/conference/nsdi21/presentation/guan)</b><br>
