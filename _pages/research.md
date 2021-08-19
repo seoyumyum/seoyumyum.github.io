@@ -34,7 +34,7 @@ author_profile: true
 
 * Designed and simulated various SIC algorithms.
 <img src="https://seoyumyum.github.io/files/SIC_Sim.png?raw=true" alt="Photo">
-#### <b>Commutated-Circuit-and-Acoustic-Delay-Line-based Adaptive Canceller (CADELAC) (<a href="http://google.com">IMS20</a>)</b>
+### (iii) Commutated-Circuit-and-Acoustic-Delay-Line-based Adaptive Canceller (CADELAC) 
 
 * Neural-network-based weight initialization scheme for direct-RF wideband self-interference cancellation to deal with non-idealities from frequency-translated acoustic-delay lines.
 
