@@ -39,8 +39,10 @@ author_profile: true
 
 * Neural-network-based weight initialization scheme for direct-RF wideband self-interference cancellation to deal with non-idealities from frequency-translated acoustic-delay lines.
 
-## **2. Non-field-of-view tracking/sensing algorithm for underdetermined blind source separation**
-To be added.
+## **2. Blind Source Separation**
+### (i) Under-determined source separation and localization using rotational motion and spatial-aliasing.
+
+### (ii) Multi-modal learning-based source separation using interference alignment.
 
 ## More to be coming.
 
