@@ -12,7 +12,7 @@ author_profile: true
 </p>
 
 <p align="center">
-  <b>Concept of proposed architecture (<a href="https://ieeexplore.ieee.org/document/9391989">JSSC21</a>, <a href="https://ieeexplore.ieee.org/abstract/document/9218392">RFIC20</a>, RFIC21) </b>
+  <b>Concept of proposed architecture (<a href="https://ieeexplore.ieee.org/document/9391989">JSSC21</a>, <a href="https://ieeexplore.ieee.org/abstract/document/9218392">RFIC20</a>, <a href="https://ieeexplore.ieee.org/abstract/document/9490473/">RFIC21</a>) </b>
   <img src="https://seoyumyum.github.io/files/MixFirstAcoustic_Concept.png?raw=true" alt="Photo"> 
 </p>
 
