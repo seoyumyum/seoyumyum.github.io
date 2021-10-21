@@ -16,7 +16,7 @@ author_profile: true
 </p>
 
 <p align="center">
-  <b>Mixer-first-acoustic-filtering RF frontend + receiver chip photo (RFIC21)</b> <br>
+  <b>Mixer-first-acoustic-filtering RF frontend + receiver chip photo (<a href="https://ieeexplore.ieee.org/abstract/document/9490473/">RFIC21</a>)</b> <br>
   <img src="https://seoyumyum.github.io/files/RFIC21_ChipPhoto.jpg?raw=true" alt="Photo" style="width: 400px;"/> 
 </p>
 
