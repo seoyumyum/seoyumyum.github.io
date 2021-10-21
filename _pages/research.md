@@ -22,7 +22,7 @@ author_profile: true
 </p>
 
 <p align="center">
-  <b>Enabling tunable 3.5-to-6.2GHz BAW BPF design from two fixed 2.6GHz BAW BPFs (RFIC21)</b>
+  <b>Enabling tunable 3.5-to-6.2GHz BAW BPF design from two fixed 2.6GHz BAW BPFs (<a href="https://ieeexplore.ieee.org/abstract/document/9490473/">RFIC21</a>)</b>
   <img src="https://seoyumyum.github.io/files/RFIC21_Concept_Full_v2.png?raw=true" alt="Photo"> 
 </p>
 
