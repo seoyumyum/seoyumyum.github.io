@@ -5,8 +5,9 @@ author_profile: true
 ---
 
 ## **1. Blocker-tolerant receiver and RF-domain signal processing**
-### (i) Software-defined wireless receiver front-end utilizing hybrid CMOS-acoustic mixer-first architecture. 
 ### (physics-modeling with theoretical analysis and simulation + custom-chip measurement) 
+### (i) Software-defined wireless receiver front-end utilizing hybrid CMOS-acoustic mixer-first architecture. 
+
 
 <p align="center">
   <b>Impedance Aliasing Phenomenon (<a href="https://ieeexplore.ieee.org/document/9391989">JSSC21</a>)</b>
@@ -43,7 +44,6 @@ author_profile: true
 * Neural-network-based weight initialization scheme for direct-RF wideband self-interference cancellation to deal with non-idealities from frequency-translated acoustic-delay lines.
 
 ## **2. Blind Source Separation**
-### (algorithm-level backed up by modeling and simulation) 
 ### (i) Under-determined source separation and localization using rotational motion and spatial-aliasing.
 
 ### (ii) Multi-modal learning-based source separation using interference alignment.
