@@ -29,7 +29,7 @@ author_profile: true
 </p>
 
 ### (ii) Full-Duplex radios and self-interference cancellation in RF/analog domain (SIC)
-### (Mostly on physics-modeling with theoretical analysis and simulation)
+
 <p align="center">
   <b>Full-Duplex/FDD Duplexer and Receiver with Autonomous Adaptation Loops (<a href="https://ieeexplore.ieee.org/abstract/document/9223872/">IMS20</a>)</b>
   <img src="https://seoyumyum.github.io/files/2020-fddfdrx_orig.png?raw=true" alt="Photo"> 
@@ -43,6 +43,7 @@ author_profile: true
 * Neural-network-based weight initialization scheme for direct-RF wideband self-interference cancellation to deal with non-idealities from frequency-translated acoustic-delay lines.
 
 ## **2. Blind Source Separation**
+### (algorithm-level backed up by modeling and simulation) 
 ### (i) Under-determined source separation and localization using rotational motion and spatial-aliasing.
 
 ### (ii) Multi-modal learning-based source separation using interference alignment.
