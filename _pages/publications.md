@@ -3,6 +3,10 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+<b>A Passive-Mixer-First Acoustic-Filtering Chipset Using Mixed-Domain Recombination
+</b> <br>
+<b>Hyungjoo Seo</b>, Mengze Sha and Jin Zhou. 
+<i>IEEE Transactions on Microwave Theory and Techniques</i>. <b>TMTT 2021</b>. <b><span style="color:Navy">(Accepted)</span></b>
 
 <b>[A 3.5-to-6.2-GHz Mixer-First Acoustic-Filtering Receiver Chipset with
 Mixed-Domain Asymmetric IF and Complex BB Recombination Achieving 170MHz BW and +27dBm
