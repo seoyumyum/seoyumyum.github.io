@@ -59,9 +59,23 @@ author_profile: true
 </p>
 
 * Proposed an idea to utilize aliased space (angular-aliasing) for solving under-determined inverse problems by reducing overcompleteness.
+
+<p align="center">
+  <b> RoSS: Utilizing Robotic Rotation for Audio Source Separation </b>
+  <a href="https://seoyumyum.github.io/files/RoSS_idea.png?raw=true" alt = "Photo"> 
+  <img src="https://seoyumyum.github.io/files/RoSS_idea.png?raw=true" alt="Photo"> 
+</a>
+</p>
+
+
 * Simulated and measured RoSS algorithm via rotational motion for acoustic applications for proof-of-concept.
 
-
+<p align="center">
+  <b> RoSS: Utilizing Robotic Rotation for Audio Source Separation </b>
+  <a href="https://seoyumyum.github.io/files/RoSS_algo.png?raw=true" alt = "Photo"> 
+  <img src="https://seoyumyum.github.io/files/RoSS_algo.png?raw=true" alt="Photo"> 
+</a>
+</p>
 ### (ii) Multi-modal BSS based on optimal geometry searching from pre-trained learned space
 
 ### (iii) Self-supervised virtual microphone estimation 
