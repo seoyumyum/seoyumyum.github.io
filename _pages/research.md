@@ -47,7 +47,7 @@ author_profile: true
 ### (i) Under-determined source separation and localization using rotational motion and spatial-aliasing.
 <p align="center">
   <b> RoSS: Utilizing Robotic Rotation for Audio Source Separation </b>
-  <a href="https://seoyumyum.github.io/files/RoSS_Summary.png" alt = "Photo" width = "2500"> 
+  <a href="https://seoyumyum.github.io/files/RoSS_Summary.png" alt = "Photo" width = "5000px"> 
   <img src="https://seoyumyum.github.io/files/RoSS_Summary.png" alt="Photo"> 
 </a>
 </p>
