@@ -13,25 +13,29 @@ author_profile: true
   <b>Impedance Aliasing Phenomenon (<a href="https://ieeexplore.ieee.org/document/9391989">JSSC21</a>)</b>
  <a href="https://seoyumyum.github.io/files/ImpedanceAliasing.png?raw=true" alt = "Photo">  
  <img src="https://seoyumyum.github.io/files/ImpedanceAliasing.png?raw=true" alt="Photo"> 
+</a>
 </p>
 
 <p align="center">
   <b>Concept of proposed architecture (<a href="https://ieeexplore.ieee.org/document/9391989">JSSC21</a>, <a href="https://ieeexplore.ieee.org/abstract/document/9218392">RFIC20</a>, <a href="https://ieeexplore.ieee.org/abstract/document/9490473/">RFIC21</a>) </b>
  <a href="https://seoyumyum.github.io/files/MixFirstAcoustic_Concept.png?raw=true" alt = "Photo">  
  <img src="https://seoyumyum.github.io/files/MixFirstAcoustic_Concept.png?raw=true" alt="Photo"> 
+</a>
 </p>
 
 <p align="center">
   <b>Enabling tunable 2.5-to-4.5GHz SAW BPF design from a fixed 1.6GHz SAW BPF (<a href="https://ieeexplore.ieee.org/abstract/document/9218392">RFIC20</a>) </b>
  <a href="https://seoyumyum.github.io/files/2020-mixerfirst_orig.png?raw=true" alt = "Photo">  
  <img src="https://seoyumyum.github.io/files/2020-mixerfirst_orig.png?raw=true" alt="Photo"> 
-</p>
+</a>
+  </p>
 
 <p align="center">
   <b>Enabling tunable 3.5-to-6.2GHz BAW BPF design from two fixed 2.6GHz BAW BPFs (<a href="https://ieeexplore.ieee.org/abstract/document/9490473/">RFIC21</a>)</b>
  <a href="https://seoyumyum.github.io/files/RFIC21_Concept_Full_v2.png?raw=true" alt = "Photo">  
  <img src="https://seoyumyum.github.io/files/RFIC21_Concept_Full_v2.png?raw=true" alt="Photo"> 
-</p>
+</a>
+  </p>
 
 ### (ii) Full-Duplex radios and self-interference cancellation in RF/analog domain (SIC)
 
