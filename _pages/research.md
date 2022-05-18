@@ -47,7 +47,7 @@ author_profile: true
 ### (i) Under-determined source separation and localization using rotational motion and spatial-aliasing.
 <p align="center">
   <b> RoSS: Utilizing Robotic Rotation for Audio Source Separation </b>
-  <img src="https://seoyumyum.github.io/files/RoSS_Summary.png" alt="drawing" style="width:200px;"/> 
+  <img src="https://seoyumyum.github.io/files/RoSS_Summary.png" alt="Photo" style="width:2000px;"/> 
 </p>
 
 * Proposed an idea to utilize aliased space (angular-aliasing) for solving under-determined inverse problems by reducing overcompleteness.
