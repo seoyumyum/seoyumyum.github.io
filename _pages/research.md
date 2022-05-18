@@ -82,6 +82,7 @@ author_profile: true
 </p>
 ### (ii) Multi-modal BSS based on optimal geometry searching from pre-trained learned space
 
+[![](https://seoyumyum.github.io/files/RoSS_algo.png?raw=true)](https://seoyumyum.github.io/files/RoSS_algo.png?raw=true)
 ### (iii) Self-supervised virtual microphone estimation 
 
 ## More to be coming.
