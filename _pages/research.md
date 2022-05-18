@@ -55,12 +55,6 @@ author_profile: true
 
 ## **2. Blind Source Separation**
 ### (i) Under-determined source separation and localization using rotational motion and spatial-aliasing.
-<p align="center">
-  <b> RoSS: Utilizing Robotic Rotation for Audio Source Separation </b>
-  <a href="https://seoyumyum.github.io/files/RoSS_Summary.png" alt = "Photo"> 
-  <img src="https://seoyumyum.github.io/files/RoSS_Summary.png?raw=true" alt="Photo"> 
-</a>
-</p>
 
 * Proposed an idea to utilize aliased space (angular-aliasing) for solving under-determined inverse problems by reducing overcompleteness.
 
