@@ -55,7 +55,7 @@ author_profile: true
 * Proposed an idea to utilize aliased space (angular-aliasing) for solving under-determined inverse problems by reducing overcompleteness.
 * Simulated and measured RoSS algorithm via rotational motion for acoustic applications for proof-of-concept.
 
-[![]([img.jpg](https://seoyumyum.github.io/files/RoSS_Summary.png))]([img.jpg](https://seoyumyum.github.io/files/RoSS_Summary.png))
+[![]([https://seoyumyum.github.io/files/RoSS_Summary.png](https://seoyumyum.github.io/files/RoSS_Summary.png))
 
 ### (ii) Multi-modal BSS based on optimal geometry searching from pre-trained learned space
 
