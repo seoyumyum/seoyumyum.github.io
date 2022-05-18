@@ -45,8 +45,17 @@ author_profile: true
 
 ## **2. Blind Source Separation**
 ### (i) Under-determined source separation and localization using rotational motion and spatial-aliasing.
+<p align="center">
+  <b> RoSS: Utilizing Robotic Rotation for Audio Source Separation </b>
+  <img src="https://seoyumyum.github.io/files/RoSS_Summary.png?raw=true" alt="Photo"> 
+</p>
 
-### (ii) Multi-modal learning-based source separation using interference alignment.
+* Proposed an idea to utilize aliased space (angular-aliasing) for solving under-determined inverse problems by reducing overcompleteness.
+* Simulated and measured RoSS algorithm via rotational motion for acoustic applications for proof-of-concept.
+
+### (ii) Multi-modal BSS based on optimal geometry searching from pre-trained learned space
+
+### (iii) Self-supervised virtual microphone estimation 
 
 ## More to be coming.
 
