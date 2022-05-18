@@ -69,7 +69,6 @@ author_profile: true
 * Simulated and measured RoSS algorithm via rotational motion for acoustic applications for proof-of-concept.
 
 <p align="center">
-  <b> RoSS: Utilizing Robotic Rotation for Audio Source Separation </b>
   <a href="https://seoyumyum.github.io/files/RoSS_algo.png" alt = "Photo"> 
   <img src="https://seoyumyum.github.io/files/RoSS_algo.png?raw=true" alt="Photo"> 
 </a>
