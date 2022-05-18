@@ -66,7 +66,7 @@ author_profile: true
 </p>
 
 
-* Simulated and measured RoSS algorithm via rotational motion for acoustic applications for proof-of-concept.
+* Simulated and measured RoSS algorithm via rotational motion for acoustic applications for a proof-of-concept design.
 
 <p align="center">
   <a href="https://seoyumyum.github.io/files/RoSS_algo.png" alt = "Photo"> 
