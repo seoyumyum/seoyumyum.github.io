@@ -11,28 +11,28 @@ author_profile: true
 
 <p align="center">
   <b>Impedance Aliasing Phenomenon (<a href="https://ieeexplore.ieee.org/document/9391989">JSSC21</a>)</b>
- <a href="https://seoyumyum.github.io/files/ImpedanceAliasing.png?raw=true" alt = "Photo">  
+ <a href="https://seoyumyum.github.io/files/ImpedanceAliasing.png" alt = "Photo">  
  <img src="https://seoyumyum.github.io/files/ImpedanceAliasing.png?raw=true" alt="Photo"> 
 </a>
 </p>
 
 <p align="center">
   <b>Concept of proposed architecture (<a href="https://ieeexplore.ieee.org/document/9391989">JSSC21</a>, <a href="https://ieeexplore.ieee.org/abstract/document/9218392">RFIC20</a>, <a href="https://ieeexplore.ieee.org/abstract/document/9490473/">RFIC21</a>) </b>
- <a href="https://seoyumyum.github.io/files/MixFirstAcoustic_Concept.png?raw=true" alt = "Photo">  
+ <a href="https://seoyumyum.github.io/files/MixFirstAcoustic_Concept.png" alt = "Photo">  
  <img src="https://seoyumyum.github.io/files/MixFirstAcoustic_Concept.png?raw=true" alt="Photo"> 
 </a>
 </p>
 
 <p align="center">
   <b>Enabling tunable 2.5-to-4.5GHz SAW BPF design from a fixed 1.6GHz SAW BPF (<a href="https://ieeexplore.ieee.org/abstract/document/9218392">RFIC20</a>) </b>
- <a href="https://seoyumyum.github.io/files/2020-mixerfirst_orig.png?raw=true" alt = "Photo">  
+ <a href="https://seoyumyum.github.io/files/2020-mixerfirst_orig.png" alt = "Photo">  
  <img src="https://seoyumyum.github.io/files/2020-mixerfirst_orig.png?raw=true" alt="Photo"> 
 </a>
   </p>
 
 <p align="center">
   <b>Enabling tunable 3.5-to-6.2GHz BAW BPF design from two fixed 2.6GHz BAW BPFs (<a href="https://ieeexplore.ieee.org/abstract/document/9490473/">RFIC21</a>)</b>
- <a href="https://seoyumyum.github.io/files/RFIC21_Concept_Full_v2.png?raw=true" alt = "Photo">  
+ <a href="https://seoyumyum.github.io/files/RFIC21_Concept_Full_v2.png" alt = "Photo">  
  <img src="https://seoyumyum.github.io/files/RFIC21_Concept_Full_v2.png?raw=true" alt="Photo"> 
 </a>
   </p>
@@ -41,7 +41,7 @@ author_profile: true
 
 <p align="center">
   <b>Full-Duplex/FDD Duplexer and Receiver with Autonomous Adaptation Loops (<a href="https://ieeexplore.ieee.org/abstract/document/9223872/">IMS20</a>)</b>
-  <a href="https://seoyumyum.github.io/files/2020-fddfdrx_orig.png?raw=true" alt = "Photo"> 
+  <a href="https://seoyumyum.github.io/files/2020-fddfdrx_orig.png" alt = "Photo"> 
   <img src="https://seoyumyum.github.io/files/2020-fddfdrx_orig.png?raw=true" alt="Photo"> 
 </a>
 </p>
@@ -66,7 +66,7 @@ author_profile: true
 
 <p align="center">
   <b> RoSS: Utilizing Robotic Rotation for Audio Source Separation </b>
-  <a href="https://seoyumyum.github.io/files/RoSS_idea.png?raw=true" alt = "Photo"> 
+  <a href="https://seoyumyum.github.io/files/RoSS_idea.png" alt = "Photo"> 
   <img src="https://seoyumyum.github.io/files/RoSS_idea.png?raw=true" alt="Photo"> 
 </a>
 </p>
@@ -76,13 +76,13 @@ author_profile: true
 
 <p align="center">
   <b> RoSS: Utilizing Robotic Rotation for Audio Source Separation </b>
-  <a href="https://seoyumyum.github.io/files/RoSS_algo.png?raw=true" alt = "Photo"> 
+  <a href="https://seoyumyum.github.io/files/RoSS_algo.png" alt = "Photo"> 
   <img src="https://seoyumyum.github.io/files/RoSS_algo.png?raw=true" alt="Photo"> 
 </a>
 </p>
+
 ### (ii) Multi-modal BSS based on optimal geometry searching from pre-trained learned space
 
-[![](https://seoyumyum.github.io/files/RoSS_algo.png?raw=true)](https://seoyumyum.github.io/files/RoSS_algo.png?raw=true)
 ### (iii) Self-supervised virtual microphone estimation 
 
 ## More to be coming.
