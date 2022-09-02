@@ -74,11 +74,11 @@ author_profile: true
 </a>
 </p>
 
-### (ii) Multi-modal BSS based on optimal geometry searching from pre-trained learned space
+### (ii) Multi-modal BSS based on optimal microphone geometry searching from deeply-learned angular manifold.
 
-### (iii) Self-supervised virtual microphone estimation 
+### (iii) Self-supervised virtual microphone estimation.
 
-## More to be coming.
+## More to be added.
 
  
 
