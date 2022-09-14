@@ -17,7 +17,14 @@ author_profile: true
 </p>
 
 <p align="center">
-  <b>Concept of proposed architecture (<a href="https://ieeexplore.ieee.org/document/9391989">JSSC21</a>, <a href="https://ieeexplore.ieee.org/abstract/document/9218392">RFIC20</a>, <a href="https://ieeexplore.ieee.org/abstract/document/9490473/">RFIC21</a>) </b>
+  <b>Mathematical analysis on harmonically-coupled feedback loops in LTV system interfaced with general LTI systems </b>
+ <a href="https://seoyumyum.github.io/files/ImpedanceAliasing_Feedback.png" alt = "Photo">  
+ <img src="https://seoyumyum.github.io/files/ImpedanceAliasing_Feedback.png?raw=true" alt="Photo"> 
+</a>
+</p>
+
+<p align="center">
+  <b>Concept of proposed architecture for wireless receiver applications (<a href="https://ieeexplore.ieee.org/document/9391989">JSSC21</a>, <a href="https://ieeexplore.ieee.org/abstract/document/9218392">RFIC20</a>, <a href="https://ieeexplore.ieee.org/abstract/document/9490473/">RFIC21</a>) </b>
  <a href="https://seoyumyum.github.io/files/MixFirstAcoustic_Concept.png" alt = "Photo">  
  <img src="https://seoyumyum.github.io/files/MixFirstAcoustic_Concept.png?raw=true" alt="Photo"> 
 </a>
