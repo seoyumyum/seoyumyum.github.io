@@ -3,6 +3,14 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+
+
+<b>[RoSS: Utilizing Rotational Motion for Audio Source Separation
+and Localization](https://www.icra2023.org/)
+</b> <br>
+<b>Hyungjoo Seo</b>, Sahil Bhandary Karnoor and Romit Roy Choudhury. 
+<i>IEEE International Conference on Robotics and Automation</i>. <b>ICRA 2023</b>. <b><span style="color:Navy"></span></b>
+
 <b>[A Passive-Mixer-First Acoustic-Filtering Chipset Using Mixed-Domain Recombination](https://ieeexplore.ieee.org/abstract/document/9743652)
 </b> <br>
 <b>Hyungjoo Seo</b>, Mengze Sha and Jin Zhou. 
