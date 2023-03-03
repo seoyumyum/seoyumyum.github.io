@@ -5,8 +5,7 @@ author_profile: true
 ---
 
 
-<b>[RoSS: Utilizing Rotational Motion for Audio Source Separation
-and Localization](https://www.icra2023.org/)
+<b>[RoSS: Rotation-induced Aliasing for Audio Source Separation](https://www.icra2023.org/)
 </b> <br>
 <b>Hyungjoo Seo</b>, Sahil Bhandary Karnoor and Romit Roy Choudhury. 
 <i>IEEE International Conference on Robotics and Automation</i>. <b>ICRA 2023</b>. <b><span style="color:Navy"></span></b>
