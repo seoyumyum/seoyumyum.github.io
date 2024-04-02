@@ -16,8 +16,13 @@ redirect_from:
 * I am a Ph.D. student in the [Electrical and Computer Engineering Department](https://ece.illinois.edu/) at [University of Illinois Urbana-Champaign](https://illinois.edu/), advised by Prof. [Jin Zhou](https://ieeexplore.ieee.org/author/37085426607) and Prof. [Romit Roy Choudhury](https://croy.web.engr.illinois.edu/) affiliated with ECE and CS. 
 * My current research direction is two-fold, broadly in interference management. 
 (1) Blocker-tolerant wireless receivers for 5G/Software-defined radios. (2) Signal processing and machine learning algorithm in interference-dominant wireless/acoustics applications.
+
+* While I mainly work on problems in the domain of RF/wireless/acoustics, I strive to find interesting physics-aware algorithmic solutions that can do better job in many scenarios.
+* I always try my best to get an in-depth understanding on math/physics fundamentals including EM theory, stochastic process, signal processing & machine learning theory.
+
 * Previously, I received my B.Eng degree with highest honors from [Tokyo Institute of Technology](https://www.titech.ac.jp/english/) in 2016. And, I received my M.S degree from [University of Michigan at Ann Arbor](https://umich.edu/) in 2018. 
-* I always try my best to have a good theoretical understanding on fundamentals such as electromagnatics, quantum mechanics, linear algebra, stastical signal processing, and machine learning theory. While I mainly work on problems in the domain of RF/wireless/acoustics, I strive to find interesting physics-aware algorithmic solutions to bring something new and better than ones without physics/hardware understanding.  
+
+* I interned at [IBM Quantum Research](https://research.ibm.com/quantum-computing) at Yorktown Heights, NY, focusing on stochastic sub-system modeling and algorithms for quantum computing.
 
  
 
