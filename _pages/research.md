@@ -81,7 +81,7 @@ author_profile: true
 </a>
 </p>
 
-### (ii) Multi-modal BSS based on optimal microphone geometry searching from deeply-learned angular manifold.
+### (ii) Multi-modal BSS based on optimal microphone geometry searching from deeply-learned angular manifold and reinforcement learning (RL)-based motion planning.
 
 ### (iii) Self-supervised virtual microphone estimation.
 
