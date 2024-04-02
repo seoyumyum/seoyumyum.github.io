@@ -17,8 +17,8 @@ redirect_from:
 * My current research direction is two-fold, broadly in interference management. 
 (1) Blocker-tolerant wireless receivers for 5G/Software-defined radios. (2) Signal processing and machine learning algorithm in interference-dominant wireless/acoustics applications.
 
-* While I mainly work on problems in the domain of RF/wireless/acoustics, I strive to find interesting physics-aware algorithmic solutions that can do better job in many scenarios.
-* I always try my best to get an in-depth understanding on math/physics fundamentals including EM theory, stochastic process, signal processing & machine learning theory.
+  * I look for interesting physics-aware algorithmic solutions that can do better job in various scenarios.
+  * I strive to get an in-depth understanding on math/physics fundamentals including EM theory, stochastic process, signal processing & machine learning theory.
 
 * Previously, I received my B.Eng degree with highest honors from [Tokyo Institute of Technology](https://www.titech.ac.jp/english/) in 2016. And, I received my M.S degree from [University of Michigan at Ann Arbor](https://umich.edu/) in 2018. 
 
