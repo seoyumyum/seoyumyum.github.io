@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 ## **1. Blocker-tolerant receiver and RF-domain signal processing**
-### : Physics-modeling with theoretical analysis and simulation + custom-chip measurement for verification.
+### : Physics-modeling with theoretical analysis and simulation + custom-chip taped-out for verification.
 ### (i) Software-defined wireless receiver front-end utilizing hybrid CMOS-acoustic mixer-first architecture. 
 
 
