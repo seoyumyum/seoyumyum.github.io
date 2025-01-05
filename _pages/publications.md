@@ -45,3 +45,8 @@ Achieving <6dB NF, +30dBm IIP3 at 1xBandwidth Offset](https://ieeexplore.ieee.or
 <i>IEEE Radio Frequency Integrated Circuits
 Symposium</i>. <b>RFIC 2020</b>.
 
+---------------------------------------------------------------------------------------------------------------
+
+<b>[Impedance-and spatial-domain aliasing in interference management techniques](https://seoyumyum.github.io/files/SEO-DISSERTATION-2022.pdf)</b> <br>
+<b>Hyungjoo Seo</b>.
+<i>PhD Dissertation</i>. <b>University of Illinois Urbana-Champaign 2022</b>.
