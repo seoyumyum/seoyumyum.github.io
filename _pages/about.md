@@ -13,10 +13,10 @@ redirect_from:
 </p>
 
 # About Me
-* I am a Ph.D. student in the [Electrical and Computer Engineering Department](https://ece.illinois.edu/) at [University of Illinois Urbana-Champaign](https://illinois.edu/), advised by Prof. [Jin Zhou](https://ieeexplore.ieee.org/author/37085426607) and Prof. [Romit Roy Choudhury](https://croy.web.engr.illinois.edu/) affiliated with ECE and CS. 
-* My current research direction is two-fold, broadly in interference management. 
+* I'm currently an Algorithm Engineer at [Apple](https://www.apple.com/) based in Bay Area, California, working on signal processing / machine learning / deep learning algorithms for various on-device applications including communications, sensing, and silicon/hardware-induced problems. My current research interets include physics-aware AI/ML algorithms and physics-inspired computing.
+*I received my Ph.D degree from [Electrical and Computer Engineering Department](https://ece.illinois.edu/) at [University of Illinois Urbana-Champaign](https://illinois.edu/) in 2022, advised by Prof. [Jin Zhou](https://ieeexplore.ieee.org/author/37085426607) and Prof. [Romit Roy Choudhury](https://croy.web.engr.illinois.edu/) affiliated with ECE and CS. 
+* My PhD research direction is two-fold, broadly in interference management techniques. 
 (1) Blocker-tolerant wireless receivers for 5G/Software-defined radios. (2) Signal processing and machine learning algorithm in interference-dominant wireless/acoustics applications.
-
   * I look for interesting physics-aware algorithmic solutions that can do better job in various scenarios.
   * I strive to get an in-depth understanding on math/physics fundamentals including EM theory, stochastic process, signal processing & machine learning theory.
 
