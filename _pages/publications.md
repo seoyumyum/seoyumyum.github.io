@@ -6,14 +6,12 @@ author_profile: true
 
 <b>[DroFiT: A Lightweight Band-Fused Frequency Attention Toward Real-Time UAV Speech Enhancement](https://arxiv.org/pdf/2509.16945)
 </b> <br>
-<b>Accepted and soon to appear
-<b>Interspeech 2026</b>. <b><span style="color:Navy"></span></b>
+Accepted and soon to appear at Interspeech 2026. <b><span style="color:Navy"></span></b>
 
 
 <b>Ego-Noise-Aware Spatial Filtering for Reliable UAV Audition in Extreme Low-SNR Conditions
 </b> <br>
-<b>Accepted and soon to appear
-<b>Interspeech 2026</b>. <b><span style="color:Navy"></span></b>
+Accepted and soon to appear at Interspeech 2026. <b><span style="color:Navy"></span></b>
 
 
 <b>[RoSS: Rotation-induced Aliasing for Audio Source Separation](https://synrg.csl.illinois.edu/papers/ross_icra23.pdf)
