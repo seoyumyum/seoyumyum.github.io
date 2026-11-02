@@ -81,9 +81,31 @@ author_profile: true
 </a>
 </p>
 
-### (ii) Multi-modal BSS based on optimal microphone geometry searching from deeply-learned angular manifold and reinforcement learning (RL)-based motion planning.
-
+### (ii) Spatial feature maximized Underdetermined BSS based on optimal microphone geometry searching from deeply-learned angular manifold and reinforcement learning (RL)-based motion planning.
+<p align="center">
+  <a href="https://seoyumyum.github.io/files/Q-RoSS.png" alt = "Photo"> 
+  <img src="https://seoyumyum.github.io/files/Q-RoSS.png?raw=true" alt="Photo"> 
+</a>
+</p>
 ### (iii) Self-supervised virtual microphone estimation.
+
+
+## **3. Coupled Oscillator Neural Network **
+Using physics dynamics to do a energy-efficient computing tasks.
+
+### (i) linear harmonic oscillator vs Van der pol oscillator + (dealy-)coupled oscillators
+<p align="center">
+  <a href="https://seoyumyum.github.io/files/CoupledOscConcept.png" alt = "Photo"> 
+  <img src="https://seoyumyum.github.io/files/CoupledOscConcept.png?raw=true" alt="Photo"> 
+</a>
+</p>
+
+### (ii) Oscillatory neuron for compute harvesting
+<p align="center">
+  <a href="https://seoyumyum.github.io/files/ONN.png" alt = "Photo"> 
+  <img src="https://seoyumyum.github.io/files/ONN.png?raw=true" alt="Photo"> 
+</a>
+</p>
 
 ## More to be added.
 
