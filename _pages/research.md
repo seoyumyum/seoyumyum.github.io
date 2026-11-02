@@ -90,7 +90,7 @@ author_profile: true
 ### (iii) Self-supervised virtual microphone estimation.
 
 
-## **3. Coupled Oscillator Neural Network **
+## **3. Coupled Oscillator Neural Network**
 Using physics dynamics to do a energy-efficient computing tasks.
 
 ### (i) linear harmonic oscillator vs Van der pol oscillator + (dealy-)coupled oscillators
