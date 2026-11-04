@@ -13,7 +13,7 @@ redirect_from:
 </p>
 
 # About Me
-* I'm currently an Systems & Algorithm Engineer at [Apple Inc.](https://www.apple.com/) based in Bay Area, California, working on signal processing / machine learning algorithms for various on-device applications including communications, sensing, and silicon/hardware-induced problems.
+* I'm currently an Systems & Algorithm Engineer based in Bay Area, California, working on signal processing / machine learning algorithms for various on-device applications including communications, sensing, and silicon/hardware-induced problems.
   * I'm also working on physics/electronics non-LTI modeling and physics-inspired computing.
   
 * I received my Ph.D degree from [Electrical and Computer Engineering Department](https://ece.illinois.edu/) at [University of Illinois Urbana-Champaign](https://illinois.edu/) in 2022, advised by Prof. [Jin Zhou](https://ieeexplore.ieee.org/author/37085426607) and Prof. [Romit Roy Choudhury](https://croy.web.engr.illinois.edu/) affiliated with ECE and CS. 
